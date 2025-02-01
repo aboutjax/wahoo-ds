@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "coreColors",
+    "typography",
+    "dark/colors",
+    "dark/componentColors"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "redesignr-tokens",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^1.2.9",
+    "style-dictionary": "^4.3.2"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "input": {
+    "standard": {
+      "enabledBorder": {
+        "value": "rgba(255,255,255,0.42)",
+        "type": "color"
+      },
+      "hoverBorder": {
+        "value": "rgba(255,255,255,1)",
+        "type": "color"
+      }
+    },
+    "filled": {
+      "enabledFill": {
+        "value": "rgba(255,255,255, 0.09)",
+        "type": "color"
+      },
+      "hoverFill": {
+        "value": "rgba(255,255,255, 0.12)",
+        "type": "color"
+      }
+    },
+    "outlined": {
+      "enabledBorder": {
+        "value": "rgba(255,255,255, 0.23)",
+        "type": "color"
+      },
+      "hoverBorder": {
+        "value": "rgba(255,255,255, 1)",
+        "type": "color"
+      }
+    }
+  }
+}
